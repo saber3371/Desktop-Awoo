@@ -1,5 +1,5 @@
 # Desktop Awoo
-some gif here
+![](https://media.giphy.com/media/XHTCxGOLNBqiFQm5cL/200w.webp)
 
 ## Donation / Support
 Donation is currently unavailable. Please submit feedbacks such as feature request and bug in 'Issues'  
