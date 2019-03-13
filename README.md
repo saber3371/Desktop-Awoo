@@ -1,5 +1,5 @@
 # Desktop Awoo
-Ignore smartscreen filter, I don't have the money to become a verified plublisher.  
+Just ignore smartscreen filter, I don't have the money to become a verified plublisher.  
 ![](https://media.giphy.com/media/3Mjz9IpnuWBXI8Ilob/source.gif)  
 
 ## Donation / Support
@@ -8,4 +8,6 @@ Ignore smartscreen filter, I don't have the money to become a verified plublishe
 Please submit feedbacks such as feature request and bug in 'Issues'  
 
 ## Todo
--Performance and optimization
+-Performance and optimization  
+-Head patting  
+-Heart eyes
