@@ -11,3 +11,7 @@ Please submit feedbacks such as feature request and bug in 'Issues'
 -Performance and optimization  
 -Head patting  
 -Heart eyes
+
+## Expected long term milestones
+- End of 2019 - Mid 2020 : Artifical intellience for basic chatting  
+- End of 2020 - Early 2021 : Custom modding
