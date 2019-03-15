@@ -11,3 +11,6 @@ Please submit feedbacks such as feature request and bug in 'Issues'
 -Performance and optimization  
 -Head patting  
 -Heart eyes
+
+## Long Term milestones
+If Trump wins 2020 : tools to modding
