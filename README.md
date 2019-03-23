@@ -1,4 +1,4 @@
-# Desktop Awoo S1 Ep3
+# Desktop Awoo
 Just ignore smartscreen filter, I don't have the money to become a verified plublisher.  
 ![](https://media.giphy.com/media/2A8tpeQUkIbhy2mTVK/giphy.gif)  
 
