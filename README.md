@@ -7,6 +7,7 @@ Just ignore smartscreen filter, I don't have the money to become a verified plub
 
 [Patreon](https://www.patreon.com/user?u=18345186)  
 [SubscribeStar](https://www.subscribestar.com/desktop-awoo)
+[Donors](http://18.206.120.170/)
 
 Please submit feedbacks such as feature request and bug on [Discord](https://discord.gg/ZyHAgWQ) (ZyHAgWQ)
 
