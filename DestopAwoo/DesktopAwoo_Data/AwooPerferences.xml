@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Values xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FX_Stars>true</FX_Stars>
+  <FX_Flowers>true</FX_Flowers>
+  <Gesture_Excited>true</Gesture_Excited>
+  <Gesture_BellyRub>true</Gesture_BellyRub>
+  <Eye_Heart>true</Eye_Heart>
+  <Eye_Star>true</Eye_Star>
+  <Other_MAGAHat>false</Other_MAGAHat>
+  <Other_Awoo>false</Other_Awoo>
+  <Other_WindowPinTo>0</Other_WindowPinTo>
+  <Ohter_TargetMonitor>0</Ohter_TargetMonitor>
+  <Other_WindowSize>0</Other_WindowSize>
+</Values>
