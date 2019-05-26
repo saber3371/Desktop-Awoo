@@ -1,4 +1,4 @@
-# Desktop Awoo S1 Ep7  
+# Desktop Awoo S1 Ep8  
 [![Discord](https://discordapp.com/api/guilds/558092702340874240/widget.png)](https://discord.gg/ZyHAgWQ)  
 New release every 2 weeks - 4 weeks (usually)    
 ![](https://media.giphy.com/media/hXCmAnep5YfD5lljj3/giphy.gif)  
@@ -17,4 +17,5 @@ Please submit feedbacks such as feature request and bug on [Discord](https://dis
 - Actually fixing issues that has been there since forever
 
 ## Long Term milestones
-If Trump wins 2020 : tools for modding your own character
+Late 2019 - Early 2020 : tools for modding your own character
+If Trump wins 2020 : AI Chatbot and tools to create your own
