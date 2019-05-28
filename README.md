@@ -14,5 +14,5 @@ Please submit feedbacks such as feature request and bug on [Discord](https://dis
 - Actually fixing issues that has been there since forever
 
 ## Long Term milestones
-Late 2019 - Early 2020 : tools for modding your own character
+Late 2019 - Early 2020 : tools for modding your own character  
 If Trump wins 2020 : AI Chatbot and tools to create your own
