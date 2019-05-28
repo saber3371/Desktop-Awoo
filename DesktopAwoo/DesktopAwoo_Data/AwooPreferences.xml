@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <General_WindowSize>0</General_WindowSize>
+  <General_WindwoPinTo>0</General_WindwoPinTo>
+  <General_TargetMontior>0</General_TargetMontior>
+  <General_ClickThrough>0</General_ClickThrough>
+  <General_TickRate>1</General_TickRate>
+  <General_HintMark>0</General_HintMark>
+  <General_RunOnStartUp>1</General_RunOnStartUp>
+  <General_IdleTime>2</General_IdleTime>
+  <General_MultiScreenDrag>1</General_MultiScreenDrag>
+  <General_Volume>10</General_Volume>
+  <FX_Stars>true</FX_Stars>
+  <FX_Flowers>true</FX_Flowers>
+  <FX_Maples>false</FX_Maples>
+  <FX_AngerSigns>true</FX_AngerSigns>
+  <FX_Hearts>true</FX_Hearts>
+  <FX_Puffs>true</FX_Puffs>
+  <FX_Petting>true</FX_Petting>
+  <FX_Pats>1</FX_Pats>
+  <FX_Doze>1</FX_Doze>
+  <Gesture_HeatPat>true</Gesture_HeatPat>
+  <Gesture_Excited>true</Gesture_Excited>
+  <Gesture_Lean>false</Gesture_Lean>
+  <Gesture_BellyRub>true</Gesture_BellyRub>
+  <Gesture_Awoo>true</Gesture_Awoo>
+  <Gesture_SpammableAwoo>false</Gesture_SpammableAwoo>
+  <Gesture_EarWiggle>true</Gesture_EarWiggle>
+  <Gesture_TailFluff>true</Gesture_TailFluff>
+  <Gesture_DragHand>true</Gesture_DragHand>
+  <Visual_Eyes>true</Visual_Eyes>
+  <Visual_Eye_Heart>true</Visual_Eye_Heart>
+  <Visual_Eye_Star>true</Visual_Eye_Star>
+  <Visual_MagaHat>false</Visual_MagaHat>
+  <Visual_Cape>false</Visual_Cape>
+  <Visual_Character>0</Visual_Character>
+  <Physics_VelocityMultiplier>1</Physics_VelocityMultiplier>
+</c>
