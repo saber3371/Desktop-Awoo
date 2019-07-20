@@ -8,5 +8,6 @@ New release every 2 weeks - 4 weeks (usually)
 [Patreon](https://www.patreon.com/user?u=18345186)  
 
 ## Road Map
-In 1-2 months : tools for modding your own character  
+In 1-2 months : Beta test for mod tool
+Fall 2019 - Winter 2019 : Final version of mod tool
 If Trump wins 2020 : AI Chatbot and tools to create your own
