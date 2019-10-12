@@ -8,6 +8,6 @@ New release every 2 weeks - 4 weeks (usually)
 [Patreon](https://www.patreon.com/user?u=18345186)  
 
 ## Road Map
-In 1-2 months : Beta test for mod tool
-Fall 2019 - Winter 2019 : Final version of mod tool
+Coming soon : Weeb code
+Fall 2019 - Spring 2020: Mod tool
 If Trump wins 2020 : AI Chatbot and tools to create your own
