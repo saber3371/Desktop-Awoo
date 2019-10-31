@@ -1,4 +1,4 @@
-# Desktop Awoo S1 Ep12   
+# Desktop Awoo S1 Ep12 - Spooky Edition   
 [![Discord](https://discordapp.com/api/guilds/558092702340874240/widget.png)](https://discord.gg/ZyHAgWQ)  
 ![](https://media.giphy.com/media/Q5ucGd7cUF8SkGyXdn/source.gif)  
 
