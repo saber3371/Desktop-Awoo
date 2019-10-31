@@ -1,10 +1,9 @@
-# Desktop Awoo S1 Ep11   
+# Desktop Awoo S1 Ep12   
 [![Discord](https://discordapp.com/api/guilds/558092702340874240/widget.png)](https://discord.gg/ZyHAgWQ)  
-New release every 2 weeks - 4 weeks (usually)    
-![](https://media.giphy.com/media/jto5INm5fc7Ixps4rd/200w_d.gif)  
+![](https://media.giphy.com/media/Q5ucGd7cUF8SkGyXdn/source.gif)  
 
 ## Donation / Support
-[Website](http://phantomowl404.github.io/Desktop-Awoo/)  
+[Website](https://uw-u.xyz/)  
 [Patreon](https://www.patreon.com/user?u=18345186)  
 
 ## Road Map
