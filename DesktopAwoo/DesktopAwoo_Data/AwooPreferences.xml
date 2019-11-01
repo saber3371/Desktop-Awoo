@@ -33,6 +33,6 @@
   <Visual_Eye_Heart>true</Visual_Eye_Heart>
   <Visual_Eye_Star>true</Visual_Eye_Star>
   <Visual_MagaHat>false</Visual_MagaHat>
-  <Visual_Character>1</Visual_Character>
+  <Visual_Character>0</Visual_Character>
   <Physics_VelocityMultiplier>1</Physics_VelocityMultiplier>
 </Values>
