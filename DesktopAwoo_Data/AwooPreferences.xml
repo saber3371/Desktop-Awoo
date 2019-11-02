@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Values xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<c xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <General_WindowSize>0</General_WindowSize>
   <General_WindowPinTo>0</General_WindowPinTo>
   <General_TargetMontior>0</General_TargetMontior>
@@ -33,6 +33,6 @@
   <Visual_Eye_Heart>true</Visual_Eye_Heart>
   <Visual_Eye_Star>true</Visual_Eye_Star>
   <Visual_MagaHat>false</Visual_MagaHat>
-  <Visual_Character>0</Visual_Character>
+  <Visual_Character>1</Visual_Character>
   <Physics_VelocityMultiplier>1</Physics_VelocityMultiplier>
-</Values>
+</c>
