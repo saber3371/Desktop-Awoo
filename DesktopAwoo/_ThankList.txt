@@ -1,12 +1,13 @@
 Thank you everyone who contributed to the development of this project 
 - issues/suggestion or other notable contribution that doesn't already exist
 
-Donors and Discord Mods : https://uw-u.xyz
+Donors and Discord Mods : https://uw-u.xyz/
 
 --------------------------------------------------------------------
-Season 1 ep 13
+Season 1 ep 13 | Season 1 ep 13.1
 + Zero Strain      - [WeebCode] Keywork issue           (Issue)
 + Xari Owl         - Icon is not changing               (Issue)
++ Darkbladelink    - Perfernce load issue               (Issue)
 
 Season 1 ep 12 | Season 1 ep 12.5
 + Noxx             - Awoo Becomes transparentish when changing monitors (Issue)
