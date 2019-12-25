@@ -4,6 +4,10 @@ Thank you everyone who contributed to the development of this project
 Donors and Discord Mods : https://uw-u.xyz
 
 --------------------------------------------------------------------
+Season 1 ep 13
++ Zero Strain      - [WeebCode] Keywork issue           (Issue)
++ Xari Owl         - Icon is not changing               (Issue)
+
 Season 1 ep 12 | Season 1 ep 12.5
 + Noxx             - Awoo Becomes transparentish when changing monitors (Issue)
 + Zero Strain      - [WeebCode] ANIME keyword not working               (Issue)
