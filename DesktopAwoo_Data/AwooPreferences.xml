@@ -6,12 +6,12 @@
   <General_ClickThrough>0</General_ClickThrough>
   <General_TickRate>1</General_TickRate>
   <General_RunOnStartUp>0</General_RunOnStartUp>
-  <General_GUI>0</General_GUI>
+  <General_GUI>1</General_GUI>
   <Sound_Volume>10</Sound_Volume>
   <Sound_Earrape>false</Sound_Earrape>
   <FX_Stars>true</FX_Stars>
   <FX_Flowers>true</FX_Flowers>
-  <FX_Maples>false</FX_Maples>
+  <FX_Maples>true</FX_Maples>
   <FX_AngerSigns>true</FX_AngerSigns>
   <FX_Hearts>true</FX_Hearts>
   <FX_Puffs>true</FX_Puffs>
@@ -33,6 +33,6 @@
   <Visual_Eye_Heart>true</Visual_Eye_Heart>
   <Visual_Eye_Star>true</Visual_Eye_Star>
   <Visual_MagaHat>false</Visual_MagaHat>
-  <Visual_Character>1</Visual_Character>
+  <Visual_Character>0</Visual_Character>
   <Physics_VelocityMultiplier>1</Physics_VelocityMultiplier>
 </c>
