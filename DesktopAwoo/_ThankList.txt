@@ -9,6 +9,7 @@ Season 1 ep 13 | Season 1 ep 13.1 | Season 1 ep 13.2
 + Xari Owl         - Icon is not changing               (Issue)
 + Darkbladelink    - Perfernce load issue               (Issue)
 + 00               - run breaks for another reason      (Issue)
++ Wan              - fixed issue with Delete Function Package
 
 Season 1 ep 12 | Season 1 ep 12.5
 + Noxx             - Awoo Becomes transparentish when changing monitors (Issue)
