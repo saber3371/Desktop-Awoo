@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <c xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <General_WindowSize>0</General_WindowSize>
+  <General_WindowSize>2</General_WindowSize>
   <General_WindowPinTo>0</General_WindowPinTo>
   <General_TargetMontior>0</General_TargetMontior>
   <General_ClickThrough>0</General_ClickThrough>
   <General_TickRate>1</General_TickRate>
   <General_RunOnStartUp>0</General_RunOnStartUp>
   <General_GUI>1</General_GUI>
-  <Sound_Volume>10</Sound_Volume>
+  <Sound_Volume>0</Sound_Volume>
   <Sound_Earrape>false</Sound_Earrape>
   <FX_Stars>true</FX_Stars>
   <FX_Flowers>true</FX_Flowers>
